@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="mainRecycler">mainRecycler</string>
+    <string name="noteImage">noteImage</string>
+    <string name="noteText">noteText</string>
+    <string name="newDialogHeading">Create a new note</string>
+    <string name="noteHint">Note Content</string>
+
+</resources>
